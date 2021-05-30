@@ -5,14 +5,16 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Language|Number of Solutions|Highest Rank|
 |:------:|:-----------------:|:----------:|
 |SQL     |5                  |5 kyu       |
-|Kotlin  |3                  |6 kyu       | 
-|Python  |3                  |7 kyu       |
+|Kotlin  |4                  |6 kyu       | 
+|Python  |4                  |6 kyu       |
 
 |Title              | Solutions |Rank|
 |:-----------------:|:----------:|:---:|
 |Relational division: Find all movies two actors cast in together|[SQL](./kata/SQL/find_all_movies_two_actors_cast_in_together.sql)|5 kyu|
 |SQL Basics: Simple JOIN and RANK|[SQL](./kata/SQL/simple_join_and_rank.sql)|6 kyu|
 |Stop gninnipS My sdroW!|[Kotlin](./kata/Kotlin/stop_gninnips_my_sdrow.kt)|6 kyu|
+|Decode the Morse code|[Kotlin](./kata/Kotlin/decode_the_morse_code.kt)|6 kyu|
+|Detect Pangram|[Python](./kata/Python/detect_pangram.py)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Square Every Digit|[Python](./kata/Python/square_every_digit.py)|7 kyu|
