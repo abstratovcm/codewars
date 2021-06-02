@@ -9,6 +9,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |SQL     |10                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
 |Python  |10                 |5 kyu       |
+|Shell   |2                  |7 kyu       |
 
 |Title              | Solutions |Rank|
 |:-----------------:|:----------:|:---:|
@@ -34,7 +35,8 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Square Every Digit|[Python](./kata/Python/square_every_digit.py)|7 kyu|
 |Isograms|[Python](./kata/Python/isograms.py)|7 kyu|
 |Complementary DNA|[Python](./kata/Python/complementary_dna.py)|7 kyu|
-|Even or Odd|[Kotlin](./kata/Kotlin/even_or_odd.kt)|8 kyu|
+|Remove anchor from URL|[Shell](./kata/Shell/remove_anchor_from_url.sh)|7 kyu|
+|Even or Odd|[Kotlin](./kata/Kotlin/even_or_odd.kt),[Shell](./kata/Shell/even_or_odd.sh)|8 kyu|
 |Multiply|[Kotlin](./kata/Kotlin/multiply.kt)|8 kyu|
 |1. Find all active students|[SQL](./kata/SQL/find_all_active_students.sql)|8 kyu|
 
