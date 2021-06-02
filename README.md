@@ -8,7 +8,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:------:|:-----------------:|:----------:|
 |SQL     |10                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
-|Python  |8                  |5 kyu       |
+|Python  |10                 |5 kyu       |
 
 |Title              | Solutions |Rank|
 |:-----------------:|:----------:|:---:|
@@ -17,6 +17,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Count IP Addresses|[SQL](./kata/SQL/count_ip_addresses.sql)|5 kyu|
 |First non-repeating character|[Python](./kata/Python/first_non_repeating_character.py)|5 kyu|
 |Scramblies|[Python](./kata/Python/scramblies.py)|5 kyu|
+|PaginationHelper|[Python](./kata/Python/pagination_helper.py)|5 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
 |SQL Basics: Simple JOIN and RANK|[SQL](./kata/SQL/simple_join_and_rank.sql)|6 kyu|
@@ -27,6 +28,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |IQ Test|[Python](./kata/Python/iq_test.py)|6 kyu|
 |Detect Pangram|[Python](./kata/Python/detect_pangram.py)|6 kyu|
 |Rectangle into Squares|[Python](./kata/Python/rectangle_into_squares.py)|6 kyu|
+|Simple Encryption #1 - Alternating Split|[Python](./kata/Python/alternating_split.py)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Square Every Digit|[Python](./kata/Python/square_every_digit.py)|7 kyu|
