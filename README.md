@@ -6,7 +6,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 
 |Language|Number of Solutions|Highest Rank|
 |:------:|:-----------------:|:----------:|
-|SQL     |11                 |5 kyu       |
+|SQL     |12                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
 |Python  |12                 |5 kyu       |
 |Shell   |2                  |7 kyu       |
@@ -25,6 +25,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
 |SQL Basics: Simple JOIN and RANK|[SQL](./kata/SQL/simple_join_and_rank.sql)|6 kyu|
 |SQL Basics: Simple table totaling|[SQL](./kata/SQL/simple_table_totaling.sql)|6 kyu|
+|SQL Basics: Simple IN|[SQL](./kata/SQL/simple_in.sql)|6 kyu|
 |Stop gninnipS My sdroW!|[Kotlin](./kata/Kotlin/stop_gninnips_my_sdrow.kt)|6 kyu|
 |Decode the Morse code|[Kotlin](./kata/Kotlin/decode_the_morse_code.kt)|6 kyu|
 |Roman Numerals Decoder|[Kotlin](./kata/Kotlin/roman_numerals_decoder.kt)|6 kyu|
