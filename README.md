@@ -6,7 +6,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 
 |Language|Number of Solutions|Highest Rank|
 |:------:|:-----------------:|:----------:|
-|SQL     |10                 |5 kyu       |
+|SQL     |11                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
 |Python  |12                 |5 kyu       |
 |Shell   |2                  |7 kyu       |
@@ -34,6 +34,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Simple Encryption #1 - Alternating Split|[Python](./kata/Python/alternating_split.py)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
+|Recursion #1 - Factorial|[SQL](./kata/SQL/factorial.sql)|7 kyu|
 |Square Every Digit|[Python](./kata/Python/square_every_digit.py)|7 kyu|
 |Isograms|[Python](./kata/Python/isograms.py)|7 kyu|
 |Complementary DNA|[Python](./kata/Python/complementary_dna.py)|7 kyu|
