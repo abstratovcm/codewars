@@ -8,11 +8,12 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:------:|:-----------------:|:----------:|
 |SQL     |12                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
-|Python  |13                 |5 kyu       |
+|Python  |14                 |4 kyu       |
 |Shell   |2                  |7 kyu       |
 
 |Title              | Solutions |Rank|
 |:-----------------:|:----------:|:---:|
+|Sum of Intervals|[Python](./kata/Python/sum_of_intervals.py)|4 kyu|
 |Relational division: Find all movies two actors cast in together|[SQL](./kata/SQL/find_all_movies_two_actors_cast_in_together.sql)|5 kyu|
 |Calculating Running Total|[SQL](./kata/SQL/calculating_running_total.sql)|5 kyu|
 |Count IP Addresses|[SQL](./kata/SQL/count_ip_addresses.sql)|5 kyu|
