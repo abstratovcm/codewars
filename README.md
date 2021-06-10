@@ -8,7 +8,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:------:|:-----------------:|:----------:|
 |SQL     |12                 |5 kyu       |
 |Kotlin  |5                  |6 kyu       | 
-|Python  |15                 |4 kyu       |
+|Python  |16                 |4 kyu       |
 |Shell   |2                  |7 kyu       |
 
 |Title              | Solutions |Rank|
@@ -24,6 +24,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Memoized Fibonacci|[Python](./kata/Python/memoized_fibonacci.py)|5 kyu|
 |Can you get the loop ?|[Python](./kata/Python/can_you_get_the_loop.py)|5 kyu|
 |int32 to IPv4|[Python](./kata/Python/int32_to_ipv4.py)|5 kyu|
+|Maximum subarray sum|[Python](./kata/Python/maximum_subarray_sum.py)|5 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
 |SQL Basics: Simple JOIN and RANK|[SQL](./kata/SQL/simple_join_and_rank.sql)|6 kyu|
