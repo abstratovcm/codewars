@@ -6,10 +6,11 @@ This repository contains a set of solutions to the kata (code challenges) that I
 
 |Language|Number of Solutions|Highest Rank|
 |:------:|:-----------------:|:----------:|
-|SQL     |12                 |5 kyu       |
-|Kotlin  |5                  |6 kyu       | 
 |Python  |16                 |4 kyu       |
+|SQL     |13                 |5 kyu       |
+|Kotlin  |5                  |6 kyu       | 
 |Shell   |2                  |7 kyu       |
+|Coq     |1                  |8 kyu       |
 
 |Title              | Solutions |Rank|
 |:-----------------:|:----------:|:---:|
@@ -25,6 +26,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Can you get the loop ?|[Python](./kata/Python/can_you_get_the_loop.py)|5 kyu|
 |int32 to IPv4|[Python](./kata/Python/int32_to_ipv4.py)|5 kyu|
 |Maximum subarray sum|[Python](./kata/Python/maximum_subarray_sum.py)|5 kyu|
+|SQL Bug Fixing: Fix the JOIN|[SQL](./kata/SQL/fix_the_join.sql)|6 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
 |SQL Basics: Simple JOIN and RANK|[SQL](./kata/SQL/simple_join_and_rank.sql)|6 kyu|
@@ -45,7 +47,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Complementary DNA|[Python](./kata/Python/complementary_dna.py)|7 kyu|
 |Remove anchor from URL|[Shell](./kata/Shell/remove_anchor_from_url.sh)|7 kyu|
 |Even or Odd|[Kotlin](./kata/Kotlin/even_or_odd.kt),[Shell](./kata/Shell/even_or_odd.sh)|8 kyu|
-|Multiply|[Kotlin](./kata/Kotlin/multiply.kt)|8 kyu|
+|Multiply|[Kotlin](./kata/Kotlin/multiply.kt),[Coq](./kata/Coq/multiply.kt)|8 kyu|
 |1. Find all active students|[SQL](./kata/SQL/find_all_active_students.sql)|8 kyu|
 
 [https://www.codewars.com/users/abstratovcm](https://www.codewars.com/users/abstratovcm)
