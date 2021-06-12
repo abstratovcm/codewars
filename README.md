@@ -4,15 +4,16 @@
 
 This repository contains a set of solutions to the kata (code challenges) that I managed to solve on codewars.
 
-|Language|Number of Solutions|Highest Rank|
-|:------:|:-----------------:|:----------:|
-|Python  |16                 |4 kyu       |
-|SQL     |13                 |5 kyu       |
-|Kotlin  |5                  |6 kyu       | 
-|Shell   |2                  |7 kyu       |
-|Coq     |1                  |8 kyu       |
+|Language  |Number of Solutions|Highest Rank|
+|:--------:|:-----------------:|:----------:|
+|Python    |16                 |4 kyu       |
+|SQL       |13                 |5 kyu       |
+|Kotlin    |5                  |6 kyu       | 
+|JavaScript|2                  |6 kyu       |
+|Shell     |2                  |7 kyu       |
+|Coq       |1                  |8 kyu       |
 
-|Title              | Solutions |Rank|
+|Title              | Solutions  |Rank |
 |:-----------------:|:----------:|:---:|
 |Sum of Intervals|[Python](./kata/Python/sum_of_intervals.py)|4 kyu|
 |Relational division: Find all movies two actors cast in together|[SQL](./kata/SQL/find_all_movies_two_actors_cast_in_together.sql)|5 kyu|
@@ -39,6 +40,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Detect Pangram|[Python](./kata/Python/detect_pangram.py)|6 kyu|
 |Rectangle into Squares|[Python](./kata/Python/rectangle_into_squares.py)|6 kyu|
 |Simple Encryption #1 - Alternating Split|[Python](./kata/Python/alternating_split.py)|6 kyu|
+|Take a Ten Minute Walk|[JavaScript](./kata/JavaScript/take_a_ten_minute_walk.js)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Recursion #1 - Factorial|[SQL](./kata/SQL/factorial.sql)|7 kyu|
@@ -46,6 +48,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Isograms|[Python](./kata/Python/isograms.py)|7 kyu|
 |Complementary DNA|[Python](./kata/Python/complementary_dna.py)|7 kyu|
 |Remove anchor from URL|[Shell](./kata/Shell/remove_anchor_from_url.sh)|7 kyu|
+|Vowel Count|[JavaScript](./kata/JavaScript/take_a_ten_minute_walk.js)|7 kyu|
 |Even or Odd|[Kotlin](./kata/Kotlin/even_or_odd.kt),[Shell](./kata/Shell/even_or_odd.sh)|8 kyu|
 |Multiply|[Kotlin](./kata/Kotlin/multiply.kt),[Coq](./kata/Coq/multiply.kt)|8 kyu|
 |1. Find all active students|[SQL](./kata/SQL/find_all_active_students.sql)|8 kyu|
