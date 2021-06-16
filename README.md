@@ -6,7 +6,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 
 |Language  |Number of Solutions|Highest Rank|
 |:--------:|:-----------------:|:----------:|
-|Python    |16                 |4 kyu       |
+|Python    |17                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       | 
 |JavaScript|2                  |6 kyu       |
@@ -19,6 +19,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Relational division: Find all movies two actors cast in together|[SQL](./kata/SQL/find_all_movies_two_actors_cast_in_together.sql)|5 kyu|
 |Calculating Running Total|[SQL](./kata/SQL/calculating_running_total.sql)|5 kyu|
 |Count IP Addresses|[SQL](./kata/SQL/count_ip_addresses.sql)|5 kyu|
+|String incrementer|[Python](./kata/Python/string_incrementer.py)|5 kyu|
 |First non-repeating character|[Python](./kata/Python/first_non_repeating_character.py)|5 kyu|
 |Scramblies|[Python](./kata/Python/scramblies.py)|5 kyu|
 |PaginationHelper|[Python](./kata/Python/pagination_helper.py)|5 kyu|
