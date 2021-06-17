@@ -6,7 +6,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 
 |Language  |Number of Solutions|Highest Rank|
 |:--------:|:-----------------:|:----------:|
-|Python    |17                 |4 kyu       |
+|Python    |18                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       | 
 |JavaScript|2                  |6 kyu       |
@@ -28,6 +28,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Can you get the loop ?|[Python](./kata/Python/can_you_get_the_loop.py)|5 kyu|
 |int32 to IPv4|[Python](./kata/Python/int32_to_ipv4.py)|5 kyu|
 |Maximum subarray sum|[Python](./kata/Python/maximum_subarray_sum.py)|5 kyu|
+|Sum of pairs|[Python](./kata/Python/sum_of_pairs.py)|5 kyu|
 |SQL Bug Fixing: Fix the JOIN|[SQL](./kata/SQL/fix_the_join.sql)|6 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
