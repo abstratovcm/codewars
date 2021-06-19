@@ -44,7 +44,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Rectangle into Squares|[Python](./kata/Python/rectangle_into_squares.py)|6 kyu|
 |Simple Encryption #1 - Alternating Split|[Python](./kata/Python/alternating_split.py)|6 kyu|
 |Take a Ten Minute Walk|[JavaScript](./kata/JavaScript/take_a_ten_minute_walk.js)|6 kyu|
-|Array.diff|[JavaScript](./kata/JavaScript/array_diff.js|6 kyu|
+|Array.diff|[JavaScript](./kata/JavaScript/array_diff.js)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Recursion #1 - Factorial|[SQL](./kata/SQL/factorial.sql)|7 kyu|
