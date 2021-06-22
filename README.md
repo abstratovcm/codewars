@@ -9,7 +9,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Python    |19                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       | 
-|JavaScript|4                  |6 kyu       |
+|JavaScript|5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
 |Coq       |1                  |8 kyu       |
 
@@ -54,6 +54,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Complementary DNA|[Python](./kata/Python/complementary_dna.py)|7 kyu|
 |Remove anchor from URL|[Shell](./kata/Shell/remove_anchor_from_url.sh)|7 kyu|
 |Vowel Count|[JavaScript](./kata/JavaScript/take_a_ten_minute_walk.js)|7 kyu|
+|Number of People in the Bus|[JavaScript](./kata/JavaScript/number_of_people_in_the_bus.js)|7 kyu|
 |Even or Odd|[Kotlin](./kata/Kotlin/even_or_odd.kt),[Shell](./kata/Shell/even_or_odd.sh)|8 kyu|
 |Multiply|[Kotlin](./kata/Kotlin/multiply.kt),[Coq](./kata/Coq/multiply.kt)|8 kyu|
 |1. Find all active students|[SQL](./kata/SQL/find_all_active_students.sql)|8 kyu|
