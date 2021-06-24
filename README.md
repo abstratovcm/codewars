@@ -8,8 +8,8 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
-|Kotlin    |5                  |6 kyu       | 
-|JavaScript|6                  |6 kyu       |
+|JavaScript|7                  |6 kyu       |
+|Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
 |Coq       |1                  |8 kyu       |
 
@@ -47,6 +47,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Array.diff|[JavaScript](./kata/JavaScript/array_diff.js)|6 kyu|
 |Tribonacci Sequence|[JavaScript](./kata/JavaScript/tribonacci_sequence.js)|6 kyu|
 |Equal Sides Of An Array|[JavaScript](./kata/JavaScript/equal_sides_of_an_array.js)|6 kyu|
+|Find the missing letter|[JavaScript](./kata/JavaScript/find_the_missing_letter.js)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Recursion #1 - Factorial|[SQL](./kata/SQL/factorial.sql)|7 kyu|
