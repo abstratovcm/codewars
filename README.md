@@ -8,7 +8,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
-|JavaScript|9                  |6 kyu       |
+|JavaScript|10                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
 |Coq       |1                  |8 kyu       |
@@ -30,6 +30,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Maximum subarray sum|[Python](./kata/Python/maximum_subarray_sum.py)|5 kyu|
 |Sum of pairs|[Python](./kata/Python/sum_of_pairs.py)|5 kyu|
 |Simple fraction to mixed number converter|[Python](./kata/Python/simple_fraction_to_mixed_number_converter.py)|5 kyu|
+|Where my anagrams at?|[JavaScript](./kata/JavaScript/where_my_anagrams_at.js)|5 kyu|
 |SQL Bug Fixing: Fix the JOIN|[SQL](./kata/SQL/fix_the_join.sql)|6 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
