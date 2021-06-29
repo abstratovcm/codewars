@@ -8,7 +8,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
-|JavaScript|10                 |5 kyu       |
+|JavaScript|11                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
 |Coq       |1                  |8 kyu       |
@@ -51,6 +51,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Find the missing letter|[JavaScript](./kata/JavaScript/find_the_missing_letter.js)|6 kyu|
 |Count characters in your string|[JavaScript](./kata/JavaScript/count_characters_in_your_string.js)|6 kyu|
 |Unique In Order|[JavaScript](./kata/JavaScript/unique_in_order.js)|6 kyu|
+|Is a number prime?|[JavaScript](./kata/JavaScript/is_a_number_prime.js)|6 kyu|
 |SQL Basics: Simple GROUP BY|[SQL](./kata/SQL/simple_group_by.sql)|7 kyu|
 |SQL: Concatenating Columns|[SQL](./kata/SQL/concatenating_columns.sql)|7 kyu|
 |Recursion #1 - Factorial|[SQL](./kata/SQL/factorial.sql)|7 kyu|
