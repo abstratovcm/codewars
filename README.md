@@ -7,7 +7,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Language  |Number of Solutions|Highest Rank|
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
-|JavaScript|13                 |4 kyu       |
+|JavaScript|14                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
@@ -33,6 +33,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Simple fraction to mixed number converter|[Python](./kata/Python/simple_fraction_to_mixed_number_converter.py)|5 kyu|
 |Where my anagrams at?|[JavaScript](./kata/JavaScript/where_my_anagrams_at.js)|5 kyu|
 |Number of trailing zeros of N!|[JavaScript](./kata/JavaScript/number_of_trailing_zeros_of_n_factorial.js)|5 kyu|
+|Human Readable Time|[JavaScript](./kata/JavaScript/human_readable_time.js)|5 kyu|
 |SQL Bug Fixing: Fix the JOIN|[SQL](./kata/SQL/fix_the_join.sql)|6 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
