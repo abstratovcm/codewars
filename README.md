@@ -7,7 +7,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Language  |Number of Solutions|Highest Rank|
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
-|JavaScript|18                 |4 kyu       |
+|JavaScript|19                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
@@ -19,6 +19,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Most frequently used words in a text|[JavaScript](./kata/JavaScript/most_frequently_used_words_in_a_text.js)|4 kyu|
 |Strip Comments|[JavaScript](./kata/JavaScript/strip_comments.js)|4 kyu|
 |Human readable duration format|[JavaScript](./kata/JavaScript/human_readable_duration_format.js)|4 kyu|
+|Binary multiple of 3|[JavaScript](./kata/JavaScript/binary_multiple_of_3.js)|4 kyu|
 |Relational division: Find all movies two actors cast in together|[SQL](./kata/SQL/find_all_movies_two_actors_cast_in_together.sql)|5 kyu|
 |Calculating Running Total|[SQL](./kata/SQL/calculating_running_total.sql)|5 kyu|
 |Count IP Addresses|[SQL](./kata/SQL/count_ip_addresses.sql)|5 kyu|
