@@ -7,7 +7,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Language  |Number of Solutions|Highest Rank|
 |:--------:|:-----------------:|:----------:|
 |Python    |19                 |4 kyu       |
-|JavaScript|19                 |4 kyu       |
+|JavaScript|20                 |4 kyu       |
 |SQL       |13                 |5 kyu       |
 |Kotlin    |5                  |6 kyu       |
 |Shell     |2                  |7 kyu       |
@@ -39,6 +39,7 @@ This repository contains a set of solutions to the kata (code challenges) that I
 |Human Readable Time|[JavaScript](./kata/JavaScript/human_readable_time.js)|5 kyu|
 |Rot13|[JavaScript](./kata/JavaScript/rot13.js)|5 kyu|
 |Regex Password Validation|[JavaScript](./kata/JavaScript/regex_password_validation.js)|5 kyu|
+|MergeSort "merge" function|[JavaScript](./kata/JavaScript/mergesort_merge_function.js)|5 kyu|
 |SQL Bug Fixing: Fix the JOIN|[SQL](./kata/SQL/fix_the_join.sql)|6 kyu|
 |SQL Basics: Simple UNION ALL|[SQL](./kata/SQL/simple_union_all.sql)|6 kyu|
 |SQL Basics: Create a FUNCTION (DATES)|[SQL](./kata/SQL/create_a_function_dates.sql)|6 kyu|
